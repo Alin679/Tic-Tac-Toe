@@ -10,17 +10,6 @@ A modern Tic Tac Toe game built with Java Swing.
 - **Multi-language** - English and Romanian support
 - **Modern UI** - Clean design with smooth animations
 
-## How to Run
-
-1. Make sure you have Java 17 or higher installed
-2. Compile the project:
-   ```bash
-   javac -d bin src/com/tictactoe/**/*.java
-   ```
-3. Run the game:
-   ```bash
-   java -cp bin com.tictactoe.Main
-   ```
 
 ## How to Play
 
